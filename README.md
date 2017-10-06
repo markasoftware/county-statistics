@@ -1,2 +1,5 @@
-# county-statistics
-Scrapes list of counties in the US, then calculates some stastistics for them!
+# County Statistics
+
+Scrapes list of counties in the US, and finds statistics about length.
+
+To scrape list of counties, execute `main.bash`.
